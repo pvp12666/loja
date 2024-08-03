@@ -78,11 +78,11 @@
 
         <div class="section">
             <h2>YENS</h2>
-            <div class="item"><span class="emoji">💵</span> 5.000 Yen : R$2,00</div>
-            <div class="item"><span class="emoji">💵</span> 10.000 Yen : R$3,00</div>
-            <div class="item"><span class="emoji">💵</span> 15.000 Yen : R$4,00</div>
-            <div class="item"><span class="emoji">💵</span> 20.000 Yen : R$5,00</div>
-            <div class="item"><span class="emoji">💵</span> 50.000 Yen : R$10,00</div>
+            <div class="item"><span class="emoji">💵</span> 5.000 Yen : R$,00</div>
+            <div class="item"><span class="emoji">💵</span> 10.000 Yen : R$2,00</div>
+            <div class="item"><span class="emoji">💵</span> 15.000 Yen : R$3,00</div>
+            <div class="item"><span class="emoji">💵</span> 20.000 Yen : R$4,00</div>
+            <div class="item"><span class="emoji">💵</span> 50.000 Yen : R$5,00</div>
         </div>
 
         <div class="section">
