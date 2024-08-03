@@ -125,7 +125,7 @@
         </footer>
         
         <div class="contact">
-            Contato Discord: <a href="https://discord.com/users/pvp1266" target="_blank">pvp1266</a>
+            Contato Discord: <a href="https://discord.gg/YsHUyKgwDh" target="_blank">pvp1266</a>
         </div>
     </div>
 </body>
