@@ -1,4 +1,4 @@
-# loja
+# LOJA
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -47,6 +47,11 @@
             margin-top: 20px;
             font-size: 14px;
             color: #777;
+        }
+        .contact {
+            margin-top: 20px;
+            font-size: 16px;
+            color: #007bff;
         }
         /* Responsivo */
         @media (max-width: 600px) {
@@ -117,8 +122,11 @@
 
         <footer>
             Cuidado com lojas falsas tentando copiar a única verdadeira e (LOJA DO PVP)
-            Entre em contato com DISCORD: pvp1266
         </footer>
+        
+        <div class="contact">
+            Contato Discord: <a href="https://discord.com/users/pvp1266" target="_blank">pvp1266</a>
+        </div>
     </div>
 </body>
 </html>
