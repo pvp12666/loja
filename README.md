@@ -117,6 +117,7 @@
 
         <footer>
             Cuidado com lojas falsas tentando copiar a única verdadeira e (LOJA DO PVP)
+            Entre em contato com DISCORD: pvp1266
         </footer>
     </div>
 </body>
