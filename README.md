@@ -70,10 +70,10 @@
         
         <div class="section">
             <h2>POTIONS</h2>
-            <div class="item"><span class="emoji">🧪</span> MUZAM BLOOD = R$0,50 (Te torna oni)</div>
-            <div class="item"><span class="emoji">🧪</span> BREATH INDICT = R$0,50 (Reseta sua respiração)</div>
-            <div class="item"><span class="emoji">🧪</span> WIPE POTION = R$0,75 (Reseta sua conta)</div>
-            <div class="item"><span class="emoji">🧪</span> COMBAT POTION = R$0,25 (Reseta seu estilo de luta)</div>
+            <div class="item"><span class="emoji">🧪</span> 25 MUZAM BLOOD = R$4,00 (Te torna oni)</div>
+            <div class="item"><span class="emoji">🧪</span> 25 BREATH INDICT = R$3,00 (Reseta sua respiração)</div>
+            <div class="item"><span class="emoji">🧪</span> 25vWIPE POTION = R$5,00 (Reseta sua conta)</div>
+            <div class="item"><span class="emoji">🧪</span> 25vCOMBAT POTION = R$2,00 (Reseta seu estilo de luta)</div>
         </div>
 
         <div class="section">
@@ -113,8 +113,8 @@
 
         <div class="section promo">
             <h2>Promoções</h2>
-            <div class="item">25 WIPE POR R$15</div>
-            <div class="item">10 WIPE POR R$7</div>
+            <div class="item">25 WIPE POR R$5</div>
+            <div class="item">10 WIPE POR R$2</div>
             <div class="item">KAMADO = R$35</div>
             <div class="item">Perfect Crystal 1 real cada</div>
             <div class="item">Caso queira outros itens manda msg</div>
