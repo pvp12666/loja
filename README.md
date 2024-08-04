@@ -116,7 +116,7 @@
             <div class="item">25 WIPE POR R$5</div>
             <div class="item">10 WIPE POR R$2</div>
             <div class="item">KAMADO = R$35</div>
-            <div class="item">Perfect Crystal 1 real cada</div>
+            <div class="item">25 Perfect Crystal R$4,00 real cada</div>
             <div class="item">Caso queira outros itens manda msg</div>
         </div>
 
