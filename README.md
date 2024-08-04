@@ -78,7 +78,7 @@
 
         <div class="section">
             <h2>YENS</h2>
-            <div class="item"><span class="emoji">💵</span> 5.000 Yen : R$,00</div>
+            <div class="item"><span class="emoji">💵</span> 5.000 Yen : R$1,00</div>
             <div class="item"><span class="emoji">💵</span> 10.000 Yen : R$2,00</div>
             <div class="item"><span class="emoji">💵</span> 15.000 Yen : R$3,00</div>
             <div class="item"><span class="emoji">💵</span> 20.000 Yen : R$4,00</div>
@@ -103,7 +103,7 @@
             <div class="item"><span class="emoji">🌪️</span> RESPIRAÇÃO DO VENTO = R$0,50</div>
             <div class="item"><span class="emoji">🌊</span> RESPIRAÇÃO DA ÁGUA = R$4,00</div>
             <div class="item"><span class="emoji">🐍</span> RESPIRAÇÃO DA SERPENTE = R$8,50</div>
-            <div class="item"><span class="emoji">🪨</span> RESPIRAÇÃO DA PEDRA = R$10,00</div>
+            <div class="item"><span class="emoji">🗻</span> RESPIRAÇÃO DA PEDRA = R$10,00</div>
             <div class="item"><span class="emoji">💗</span> RESPIRAÇÃO DO AMOR = R$8,50</div>
             <div class="item"><span class="emoji">🌷</span> RESPIRAÇÃO DA FLOR = R$3,00</div>
             <div class="item"><span class="emoji">⚡</span> RESPIRAÇÃO DO RAIO = R$2,00</div>
