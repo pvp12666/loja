@@ -96,9 +96,7 @@
             <div class="item"><span class="emoji">🗡️</span> KATANA KAMADO = R$10,00</div>
             <div class="item">Obs: As hashira nichirin dão 7 de dano no m1/m2, e a kamado nichirin dá 8 de danos m1/m2.</div>
         </div>
-        <p>oi
-        <p>
-
+        
         <div class="section">
             <h2>BREATHING</h2>
             <div class="item"><span class="emoji">🔥</span> RESPIRAÇÃO DA CHAMAS = R$1,00</div>
